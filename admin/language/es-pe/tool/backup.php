@@ -7,13 +7,13 @@ $_['text_success']     = 'Success: You have successfully imported your database!
 
 // Entry
 $_['entry_progress']   = 'Progress';
-$_['entry_export']     = 'Export';
+$_['entry_export']     = 'Exportar';
 
 // Tab
 $_['tab_backup']       = 'Backup';
-$_['tab_restore']      = 'Restore';
+$_['tab_restore']      = 'Restaurar';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Backup &amp; Restore!';
-$_['error_export']     = 'Warning: You must select at least one table to export!';
-$_['error_file']       = 'File could not be found!';
+$_['error_permission'] = 'Advertencia: Tu no tiene permiso para modificar el Backup &amp; Restaurar!';
+$_['error_export']     = 'Advertencia: Debes de seleccionar minimo una tabla para exportar!';
+$_['error_file']       = 'Archivo no encontrado!';
